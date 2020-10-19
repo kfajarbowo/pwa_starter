@@ -51,6 +51,7 @@ Read the [getting started guide](http://materializecss.com/getting-started.html)
 - Install with [Bower](https://bower.io): `bower install materialize` ([DEPRECATED](https://bower.io/blog/2017/how-to-migrate-away-from-bower/))
 - Install with [Atmosphere](https://atmospherejs.com): `meteor add materialize:materialize` (Beta: `meteor add materialize:materialize@=1.0.0-beta`)
 
+
 ## Documentation
 The documentation can be found at <http://materializecss.com>. To run the documentation locally on your machine, you need [Node.js](https://nodejs.org/en/) installed on your computer.
 
@@ -85,8 +86,19 @@ Materialize is compatible with:
 - Edge
 - IE 11+
 
+Materialize kompatibel dengan:
+
+- Chrome 35+
+- Firefox 31+
+- Safari 9+
+- Opera
+- Tepi
+- IE 11+
+
 ## Changelog
 For changelogs, check out [the Releases section of materialize](https://github.com/Dogfalo/materialize/releases) or the [CHANGELOG.md](CHANGELOG.md).
+
+Untuk changelogs, lihat [bagian Rilis dari materialize] (https://github.com/Dogfalo/materialize/releases) atau [CHANGELOG.md] (CHANGELOG.md).
 
 ## Testing
 We use Jasmine as our testing framework and we're trying to write a robust test suite for our components. If you want to help, [here's a starting guide on how to write tests in Jasmine](CONTRIBUTING.md#jasmine-testing-guide).
