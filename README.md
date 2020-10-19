@@ -54,10 +54,12 @@ Read the [getting started guide](http://materializecss.com/getting-started.html)
 ## Documentation
 The documentation can be found at <http://materializecss.com>. To run the documentation locally on your machine, you need [Node.js](https://nodejs.org/en/) installed on your computer.
 
+Dokumentasi dapat ditemukan di <http://materializecss.com>. Untuk menjalankan dokumentasi secara lokal di komputer Anda, Anda memerlukan [Node.js] (https://nodejs.org/en/) yang diinstal di komputer Anda.
+
 ### Running documentation locally
 Run these commands to set up the documentation:
 
-```bash
+```bash (open a git bash)
 git clone https://github.com/Dogfalo/materialize
 cd materialize
 npm install
